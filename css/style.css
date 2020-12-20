@@ -596,6 +596,10 @@ table span {
     background-image: linear-gradient(to top, #FF8400 0%, #FFD600 100%);
 }
 
+.line-orange {
+    display: none;
+}
+
 .home__images, .home__words {
     width: 100%;  
 }
