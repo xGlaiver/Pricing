@@ -304,17 +304,13 @@ table {
 
 
 td, td>h6, table span {
-    padding: 5px;
+    padding: 5px 5px 5px 1px;
     color: #4003CA;
     font-weight: 900;
 }
 
 table span {
     font-weight: 700;
-}
-
-.email-info {
-    font-weight: 400;
 }
 
 /* Footer TextRight */
